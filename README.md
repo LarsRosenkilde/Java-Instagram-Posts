@@ -1,2 +1,2 @@
-# Java-Instagram-Posts
-Java source-codes posted on Instagram
+# Java
+Java source-codes
